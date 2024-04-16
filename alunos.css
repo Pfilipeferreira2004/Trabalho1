@@ -1,0 +1,9 @@
+.col ul{
+  display: flex;
+  gap: 200px;
+  text-decoration: none;
+  list-style: none;
+}
+.col li{
+  background-color: rgb(170, 170, 255);
+}

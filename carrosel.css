@@ -1,0 +1,9 @@
+.carrosel{
+  text-align: center;
+}
+.carrosel img{
+ max-width: 500px;
+ align-items: center;
+ margin: 0 auto;
+ border: 10px;
+}
